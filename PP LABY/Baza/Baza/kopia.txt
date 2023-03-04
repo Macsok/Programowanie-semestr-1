@@ -1,0 +1,24 @@
+Merida Matts 7.30 2021|niebieski|MTB|29|200|80|2|1|2023|0|0|0|0|0|0
+Marin Bobcat 4|szary|MTB|29|200|120|2|1|2023|0|0|0|0|0|0
+Orbea MX 29 ENT 40|niebieski|MTB|29|200|80|2|1|2023|0|0|0|0|0|0
+Kellys Spider 70|zolty|MTB|29|250|100|1|1|2023|0|0|0|0|0|0
+Orbea Onna XS|bordowy|MTB|27|200|80|2|1|2023|0|0|0|0|0|0
+Marin Bobcat Trail 5|czarny|MTB|27.5|300|150|27|12|2022|0|0|0|0|0|0
+Kross Level 2.0|zolty|MTB|29|200|70|28|12|2022|0|0|0|0|0|0
+Kross Hexagon 7.0|czarny|MTB|27.5|180|70|28|12|2022|1|1|2023|7|1|2023
+Kross Trans 4.0|szary|Trekking|28|250|100|27|12|2022|28|12|2022|8|1|2023
+Kross Trans 1.0 SR|szary|Trekking|28|200|100|12|11|2022|23|12|2022|7|1|2023
+Kands Travel-X|czarny|Trekking|28|200|100|17|12|2022|4|1|2023|9|1|2023
+Kands Elite Pro|czarny|Trekking|27.5|200|120|29|11|2022|0|0|0|0|0|0
+Kands Galileo|srebrny|Trekking|28|240|100|16|12|2022|28|12|2022|7|1|2023
+Orbea Avant H30-D|brazowy|Szosowy|29|200|150|17|12|2022|1|1|2023|17|1|2023
+Orbea Avant H40-D|zloty|Szosowy|29|180|90|13|12|2022|27|12|2022|3|1|2023
+Merida Scultura Endurance 4000|ciemno-szary|Szosowy|29|250|120|13|11|2022|27|12|2022|12|1|2023
+Kross Evado 4.0|blekitny|Cross|27.5|150|70|13|11|2022|0|0|0|0|0|0
+Merida Crossway 40 Lady|szary|Cross|28|180|70|28|11|2022|0|0|0|0|0|0
+Kellys Clea 10|mietowy|Cross|27.5|150|70|13|11|2022|1|1|2023|20|1|2023
+Kellys Emma 2022|rozowy|Dzieciecy|16|0|50|11|11|2022|0|0|0|0|0|0
+Formula Race|zielono-czarny|Dzieciecy|16|0|50|13|11|2022|0|0|0|0|0|0
+Formula Race VT|pomaranczowy|Dzieciecy|16|0|40|20|10|2022|17|12|2022|11|1|2023
+Trek Superfly 8||MTB|29|200|80|13|11|2022|0|0|0|0|0|0
+Accent Peak|czarny|MTB|29|200|100|23|10|2022|27|12|2022|18|1|2023
